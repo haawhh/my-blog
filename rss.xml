@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Mi Blog de Artículos</title>
+        <link>https://haawhh.github.io/myblog</link>
+        <description>Un blog con artículos sobre XHTML</description>
+        <language>es-es</language>
+        <item>
+            <title>Artículo 1: Introducción a XHTML</title>
+            <link>https://haawhh.github.io/myblog#articulo1</link>
+            <description>XHTML es una versión más estricta y limpia del HTML.</description>
+        </item>
+        <item>
+            <title>Artículo 2: Ventajas del XHTML</title>
+            <link>https://haawhh.github.io/myblog#articulo2</link>
+            <description>El XHTML ayuda a mantener la estructura y presentación del contenido web más clara y precisa.</description>
+        </item>
+        <item>
+            <title>Artículo 3: Cómo empezar con XHTML</title>
+            <link>https://haawhh.github.io/myblog#articulo3</link>
+            <description>Para comenzar con XHTML, debes asegurarte de que tu código sea bien estructurado y siga las reglas de XML.</description>
+        </item>
+    </channel>
+</rss>
